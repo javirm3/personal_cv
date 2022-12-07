@@ -274,6 +274,7 @@ GEM
 
 PLATFORMS
   x86_64-darwin-19
+  x86_64-darwin-21
 
 DEPENDENCIES
   dotenv
@@ -282,4 +283,4 @@ DEPENDENCIES
   jekyll-github-metadata
 
 BUNDLED WITH
-   2.3.14
+   2.3.26
