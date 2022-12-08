@@ -23,34 +23,38 @@
   subtitle: Degree in Mathematics
   timeline-side: right
 
-- title: Google
-  title-url: https://example.com/
-  date: Mar 2019 - Sep 2019
-  subtitle: Software Engineer as Intern
+- title: London International Youth Science Forum (LIYSF)
+  title-url: https://www.liysf.org.uk/
+  date: 2022
+  subtitle: Participant
   tags:
-    - tag: Flutter
-    - tag: Dart
-    - tag: Keycloak
-  timeline-side: right
-
-- title: Super University
-  title-url: https://example.com/
-  date: 2017 - 2019
-  subtitle: M.Sc. Computer Science
+    - tag: Summer Camp
+    - tag: STEM
   timeline-side: left
 
-- title: Facebook
-  title-url: https://example.com/
-  date: Sep 2017 - Mar 2019
-  subtitle: Front-End Developer as Intern
+- title: Institut de Ciències Fótoniques (ICFO)
+  title-url: https://www.icfo.eu/
+  date: Jul 2021
+  subtitle: Summer Course (An introduction to image processing).
   tags:
-    - tag: React
-    - tag: Node
-    - tag: Javascript
+    - tag: Mathematics
+    - tag: Data Science
+    - tag: Matlab
+  timeline-side: left
+
+- title: Youth and Science
+  title-url: https://www.fundaciocatalunya-lapedrera.com/en/youth-and-science
+  date: Jun 2019 - Sep 2022
+  subtitle: Selected to participate at the programme Youth and Science, managed by Fundació Catalunya La Pedrera. A three-year programme to encourage scientific vocations of fifty talented young people with a drive to research.
+  #mirar descrpición joves (directa de su web)
+  tags:
+    - tag: Science
+    - tag: Research
+    - tag: Scolarship
   timeline-side: right
 
-- title: Super University
-  title-url: https://example.com/
-  date: 2014 - 2017
-  subtitle: B.A. Computer Science
-  timeline-side: left
+# - title: Super University
+#   title-url: https://example.com/
+#   date: 2014 - 2017
+#   subtitle: B.A. Computer Science
+#   timeline-side: left
