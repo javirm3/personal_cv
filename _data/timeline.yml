@@ -17,15 +17,10 @@
 #     - tag: Rails
 #   timeline-side: right
 
-- title: airbnb
-  title-url: https://example.com/
-  date: Sep 2019 - Present
-  subtitle: Fullstack Developer
-  tags:
-    - tag: React
-    - tag: Javascript
-    - tag: Ruby
-    - tag: Rails
+- title: Universitat Politècnica de Catalunya (UPC)
+  title-url: https://fme.upc.edu/es/los-estudios/grados/grado-en-matematicas
+  date: Sep 2021 - Present
+  subtitle: Degree in Mathematics
   timeline-side: right
 
 - title: Google
