@@ -3,6 +3,7 @@
 # GENERAL SITE SETTINGS
 # title: This will be displayed as the website's name in your browser tab.
 title: Javier Rodriguez Martinez's CV
+title_es: CV de Javier Rodriguez Martinez
 # description: This will be meta HTML tag content. This can be ignored.
 description: Personal website powered by Jekyll
 # baseurl: The subpath of your site
@@ -83,6 +84,7 @@ show_contact_card: true
 contact_title: Contact
 # contact_description: This will be displayed under the title.
 contact_description: I'm available for any request via email. You can check the source code and the documentation of this website at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>.
+contact_description_es: Estoy disponible for any request via email. You can check the source code and the documentation of this website at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>.
 
 # GITHUB-METADATA
 # Set this to your forked repository
