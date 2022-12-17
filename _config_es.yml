@@ -2,30 +2,29 @@
 
 # GENERAL SITE SETTINGS
 # title: This will be displayed as the website's name in your browser tab.
-title: Javier Rodriguez Martinez's CV
+title_es: CV de Javier Rodriguez Martinez
 # description: This will be meta HTML tag content. This can be ignored.
-description: Personal website powered by Jekyll
+description_es: Personal website powered by Jekyll
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
-baseurl: "/personal_cv"
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
-username: Javier Rodríguez Martínez
+# username: Javier Rodríguez Martínez
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: This is my resume
+
 typing_text_es: Este es mi currículum
 # email: Your E-Mail address for the email button.
-email: jrm2003@icloud.com
+# email: jrm2003@icloud.com
 # For every social button you want to display, set your username or userid
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
-github_username: javirm3
-codepen_username:
-dev_username: 
-linkedin_username: javier-rodríguez-martínez-90177119a/
-twitter_username: 
+# github_username: javirm3
+# codepen_username:
+# dev_username: 
+# linkedin_username: javier-rodríguez-martínez-90177119a/
+# twitter_username: 
 
 # ABOUT ME SECTION
 # show_aboutme_card:
@@ -33,10 +32,8 @@ twitter_username:
 # > setting this to false, will omit the About Me section
 show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
-about_me_title: About Me
 about_me_title_es: Sobre mí
 # about_me_description: This will be displayed under the title.
-about_me_description: Currently, I'm studying a college Degree in Mathematics. I'm also specially interested on biology, data science and mathematics applied to economics. I'm looking for an internship this summer to keep learning about these topics. Besides, like doing side-projects and learning on my own. 
 about_me_description_es: Ahora mismo, estoy estudiando a college Degree in Mathematics. I'm also specially interested on biology, data science and mathematics applied to economics. I'm looking for an internship this summer to keep learning about these topics. Besides, like doing side-projects and learning on my own. 
 #<a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>. You can also find me on <a class="highlight-link" href="https://jamstackthemes.dev/theme/jekyll-neumorphism/" target="_blank" rel="noreferrer">JAMstack Themes</a> and on <a class="highlight-link" href="https://jekyll-themes.com/neumorphism/" target="_blank" rel="noreferrer">Jekyll Themes</a>.
 
@@ -46,7 +43,6 @@ about_me_description_es: Ahora mismo, estoy estudiando a college Degree in Mathe
 # > setting this to false, will omit the Skills section
 show_skills_card: false
 # about_me_title: The will be displayed as the title in the Skills section
-skills_title: Skills
 skills_title_es: Skills
 
 # TIMELINE SECTION
@@ -55,7 +51,7 @@ skills_title_es: Skills
 # > setting this to false, will omit the Timeline section
 show_timeline_card: true
 # timeline_title: The will be displayed as the title in the Timeline section
-timeline_title: Education & Experience
+timeline_title_es: Educación y Experiencia
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
 cv_download_link: #"https://github.com/javirm3/personal_cv/blob/3cf23a0453b09a8a391b412656819bacf88c79c9/Cv.pdf"
@@ -70,13 +66,13 @@ show_projects_card: true
 # > setting this to false, will omit your listed projects
 show_projects: false #Poner TR?
 # projects_title: The will be displayed as the title of your projects
-projects_title: Projects
+projects_title_es: Proyectos
 # show_os_projects:
 # > setting this to true, will display your public projects on github
 # > setting this to false, will omit your public projects on github
 show_os_projects: true
 # os_projects_title: The will be displayed as the title of your open source projects
-os_projects_title: Open Source Projects
+os_projects_title_es: Proyectos Open-Source
 
 # CONTACT SECTION
 # show_contact_card:
@@ -84,9 +80,8 @@ os_projects_title: Open Source Projects
 # > setting this to false, will omit the Contact section
 show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
-contact_title: Contact
+contact_title_es: Contacto
 # contact_description: This will be displayed under the title.
-contact_description: I'm available for any request via email. You can check the source code and the documentation of this website at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>.
 contact_description_es: Estoy disponible for any request via email. You can check the source code and the documentation of this website at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>.
 
 # GITHUB-METADATA

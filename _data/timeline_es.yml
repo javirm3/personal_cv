@@ -1,0 +1,60 @@
+# > title: Name of your timeline entry, university or work place
+# > title-url: Link to your timeline entry, university or work place
+# > date: Time span
+# > subtitle: The description under the title
+# > tags: List of tags you want to associate with the entry
+# > timeline-side: The side on which you want to display the entry: left or right
+
+# Example of a timeline entry
+# - title: airbnb
+#   title-url: https://example.com/
+#   date: Sep 2019 - Present
+#   subtitle: Fullstack Developer
+#   tags:
+#     - tag: React
+#     - tag: Javascript
+#     - tag: Ruby
+#     - tag: Rails
+#   timeline-side: right
+
+- title: Universitat Politècnica de Catalunya (UPC)
+  title-url: https://fme.upc.edu/es/los-estudios/grados/grado-en-matematicas
+  date: Sep 2021 - Presente
+  subtitle: Grado en Matemáticas
+  timeline-side: right
+
+- title: London International Youth Science Forum (LIYSF)
+  title-url: https://www.liysf.org.uk/
+  date: 2022
+  subtitle: Participante en el programa
+  tags:
+    - tag: Curso de Verano
+    - tag: STEM
+  timeline-side: left
+
+- title: Institut de Ciències Fótoniques (ICFO)
+  title-url: https://www.icfo.eu/
+  date: Jul 2021
+  subtitle: Curso de verano (Introducción al procesamiento de imágenes).
+  tags:
+    - tag: Matemáticas
+    - tag: Data Science
+    - tag: Matlab
+  timeline-side: left
+
+- title: Joves i Ciència
+  title-url: https://www.fundaciocatalunya-lapedrera.com/es/jovenes-y-ciencia
+  date: Jun 2019 - Sep 2022
+  subtitle: Seleccionado para participar en el programa Joves i Ciència, dirigido por la Fundació Catalunya La Pedrera.  A three-year programme to encourage scientific vocations of fifty talented young people with a drive to research.
+  #mirar descrpición joves (directa de su web)
+  tags:
+    - tag: Ciencia
+    - tag: Investigación
+    - tag: Beca
+  timeline-side: right
+
+# - title: Super University
+#   title-url: https://example.com/
+#   date: 2014 - 2017
+#   subtitle: B.A. Computer Science
+#   timeline-side: left

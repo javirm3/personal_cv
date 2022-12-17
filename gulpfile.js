@@ -86,7 +86,7 @@ function jekyll(done) {
         'exec',
         'jekyll',
         'build',
-        '--config=_config.yml,_config_dev.yml'
+        '--config=_config.yml,_config_dev.yml,_config_es.yml'
       ],
       {
         stdio: 'inherit'
@@ -101,7 +101,7 @@ function jekyll(done) {
  */
 function watchData() {
   gulp.watch(
-    ['_data/*.yml', '_config.yml', 'assets/*.json'],
+    ['_data/*.yml', '_config.yml', '_config_es.yml', 'assets/*.json'],
     gulp.series(jekyll, browserSyncReload)
   );
 }
