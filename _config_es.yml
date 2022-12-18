@@ -87,44 +87,44 @@ contact_description_es: Estoy disponible para cualquier pregunta por email. Se p
 # GITHUB-METADATA
 # Set this to your forked repository
 # > e.g. <user>/<user>.github.io
-repository: javirm3/personal_cv
-projects:
-  # sortby:
-  # > set this to pushed, if you want to sort your github repositories by time.
-  # > set this to stars, if you want to sort your github repositories by stars.
-  sort_by: pushed
-  exclude:
-    # archived:
-    # > setting this to true, will exclude archived repositories
-    # > setting this to false, will also display archived repositories
-    archived: true
-    # forks:
-    # > setting this to true, will exclude forked repositories
-    # > setting this to false, will also display forked repositories
-    forks: true
-    # projects: A list of the repository names you want to exclude from the listing.
-    projects:
-    - javirm3
-    - personal_cv
+# repository: javirm3/personal_cv
+# projects:
+#   # sortby:
+#   # > set this to pushed, if you want to sort your github repositories by time.
+#   # > set this to stars, if you want to sort your github repositories by stars.
+#   sort_by: pushed
+#   exclude:
+#     # archived:
+#     # > setting this to true, will exclude archived repositories
+#     # > setting this to false, will also display archived repositories
+#     archived: true
+#     # forks:
+#     # > setting this to true, will exclude forked repositories
+#     # > setting this to false, will also display forked repositories
+#     forks: true
+#     # projects: A list of the repository names you want to exclude from the listing.
+#     projects:
+#     - javirm3
+#     - personal_cv
 
-# GOOGLE-ANALYTICS
-# Set the id, if you want to track your website with Google Analytics
-# > set this to "", if you do not want to track with Google Analytics
-google-analytics:
-  id: "G-N9EH7VE7KM"
+# # GOOGLE-ANALYTICS
+# # Set the id, if you want to track your website with Google Analytics
+# # > set this to "", if you do not want to track with Google Analytics
+# google-analytics:
+#   id: "G-N9EH7VE7KM"
 
-### END OF VALUES YOU SHOULD CHANGE ###
+# ### END OF VALUES YOU SHOULD CHANGE ###
 
-plugins:
-  - "jekyll-github-metadata"
-  - "jekyll-sitemap"
+# plugins:
+#   - "jekyll-github-metadata"
+#   - "jekyll-sitemap"
 
-exclude:
-  [
-    "_assets",
-    "Gemfile",
-    "Gemfile.lock",
-    "gulpfile.js",
-    "node_modules",
-    "package.json",
-  ]
+# exclude:
+#   [
+#     "_assets",
+#     "Gemfile",
+#     "Gemfile.lock",
+#     "gulpfile.js",
+#     "node_modules",
+#     "package.json",
+#   ]
