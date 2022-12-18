@@ -34,7 +34,7 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title_es: Sobre mí
 # about_me_description: This will be displayed under the title.
-about_me_description_es: Ahora mismo, estoy estudiando a college Degree in Mathematics. I'm also specially interested on biology, data science and mathematics applied to economics. I'm looking for an internship this summer to keep learning about these topics. Besides, like doing side-projects and learning on my own. 
+about_me_description_es: Actualmente estoy estudiando un grado en Matemáticas. También me interesa especialmente la biología, la ciencia de datos y las matemáticas aplicadas a la economía. Ahora mismo, estoy buscando prácticas este verano para poder seguir aprendiendo sobre estos temas. Además, me gusta mucho llevar a cabo proyectos y aprender por mi cuenta.
 #<a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>. You can also find me on <a class="highlight-link" href="https://jamstackthemes.dev/theme/jekyll-neumorphism/" target="_blank" rel="noreferrer">JAMstack Themes</a> and on <a class="highlight-link" href="https://jekyll-themes.com/neumorphism/" target="_blank" rel="noreferrer">Jekyll Themes</a>.
 
 # SKILLS SECTION
@@ -82,7 +82,7 @@ show_contact_card: true
 # contact_title: The will be displayed as the title in the Contact section
 contact_title_es: Contacto
 # contact_description: This will be displayed under the title.
-contact_description_es: Estoy disponible for any request via email. You can check the source code and the documentation of this website at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>.
+contact_description_es: Estoy disponible para cualquier pregunta por email. Se puede acceder al código original y la documentación de esta web en  <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>.
 
 # GITHUB-METADATA
 # Set this to your forked repository

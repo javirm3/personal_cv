@@ -15,7 +15,6 @@ username: Javier Rodríguez Martínez
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
 typing_text: This is my resume
-typing_text_es: Este es mi currículum
 # email: Your E-Mail address for the email button.
 email: jrm2003@icloud.com
 # For every social button you want to display, set your username or userid
@@ -34,10 +33,8 @@ twitter_username:
 show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title: About Me
-about_me_title_es: Sobre mí
 # about_me_description: This will be displayed under the title.
 about_me_description: Currently, I'm studying a college Degree in Mathematics. I'm also specially interested on biology, data science and mathematics applied to economics. I'm looking for an internship this summer to keep learning about these topics. Besides, like doing side-projects and learning on my own. 
-about_me_description_es: Ahora mismo, estoy estudiando a college Degree in Mathematics. I'm also specially interested on biology, data science and mathematics applied to economics. I'm looking for an internship this summer to keep learning about these topics. Besides, like doing side-projects and learning on my own. 
 #<a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>. You can also find me on <a class="highlight-link" href="https://jamstackthemes.dev/theme/jekyll-neumorphism/" target="_blank" rel="noreferrer">JAMstack Themes</a> and on <a class="highlight-link" href="https://jekyll-themes.com/neumorphism/" target="_blank" rel="noreferrer">Jekyll Themes</a>.
 
 # SKILLS SECTION
@@ -47,7 +44,6 @@ about_me_description_es: Ahora mismo, estoy estudiando a college Degree in Mathe
 show_skills_card: false
 # about_me_title: The will be displayed as the title in the Skills section
 skills_title: Skills
-skills_title_es: Skills
 
 # TIMELINE SECTION
 # show_timeline_card:
@@ -87,7 +83,6 @@ show_contact_card: true
 contact_title: Contact
 # contact_description: This will be displayed under the title.
 contact_description: I'm available for any request via email. You can check the source code and the documentation of this website at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>.
-contact_description_es: Estoy disponible for any request via email. You can check the source code and the documentation of this website at <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>.
 
 # GITHUB-METADATA
 # Set this to your forked repository
