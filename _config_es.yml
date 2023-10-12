@@ -54,7 +54,7 @@ show_timeline_card: true
 timeline_title_es: Educación y Experiencia
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: #"https://github.com/javirm3/personal_cv/blob/3cf23a0453b09a8a391b412656819bacf88c79c9/Cv.pdf"
+cv_download_link: "/Francisco_Javier_Rodriguez_Martinez_CV.pdf"
 
 # PROJECTS SECTION
 # show_projects_card:
