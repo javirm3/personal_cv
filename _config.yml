@@ -4,7 +4,7 @@
 # title: This will be displayed as the website's name in your browser tab.
 title: Javier Rodriguez Martinez's CV
 # description: This will be meta HTML tag content. This can be ignored.
-description: Javier Rodriguez Martinez's personal CV showcasing education, experience, and projects.
+description: Javier Rodriguez Martinez's personal website, powered by jekyll.
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
 baseurl: "/personal_cv"
@@ -54,7 +54,7 @@ show_timeline_card: true
 timeline_title: Education & Experience
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: "/Francisco_Javier_Rodriguez_Martinez_CV"
+cv_download_link: "/Francisco-Javier-Rodriguez-Martinez-CV"
 # PROJECTS SECTION
 # show_projects_card:
 # > setting this to true, will display the Projects section
