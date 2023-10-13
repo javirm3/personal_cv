@@ -4,7 +4,7 @@
 # title: This will be displayed as the website's name in your browser tab.
 title: Javier Rodriguez Martinez's CV
 # description: This will be meta HTML tag content. This can be ignored.
-description: Personal website powered by Jekyll
+description: Javier Rodriguez Martinez's personal CV showcasing education, experience, and projects.
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
 baseurl: "/personal_cv"
@@ -117,7 +117,7 @@ google-analytics:
 plugins:
   - "jekyll-github-metadata"
   - "jekyll-sitemap"
-
+  - "jekyll-seo-tag"
 exclude:
   [
     "_assets",

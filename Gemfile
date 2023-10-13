@@ -5,3 +5,4 @@ gem "github-pages"
 gem "jekyll"
 gem "jekyll-github-metadata"
 gem 'jekyll-sitemap'
+gem 'jekyll-seo-tag'
