@@ -54,7 +54,7 @@ show_timeline_card: true
 timeline_title: Education & Experience
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: "/Francisco-Javier-Rodriguez-Martinez-C"
+cv_download_link: "/Francisco-Javier-Rodriguez-Martinez-CV"
 # PROJECTS SECTION
 # show_projects_card:
 # > setting this to true, will display the Projects section
@@ -188,7 +188,7 @@ show_timeline_card: true
 timeline_title_es: Educación y Experiencia
 # cv_download_link: The link where you host your cv.
 # > e.g. you share your cv on your dropbox, then add the dropbox link here
-cv_download_link: "/personal_cv/Francisco_Javier_Rodriguez_Martinez_CV.pdf"
+cv_download_link: "/personal_cv/Francisco-Javier-Rodriguez-Martinez-CV.pdf"
 
 # PROJECTS SECTION
 # show_projects_card:
