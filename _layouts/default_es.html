@@ -1,66 +1,74 @@
 <!DOCTYPE html>
 <html lang="es">
 
-<head>
-  {% seo %}
-  <meta name="google-site-verification" content="dieV_6BS7P0W-Q0gJ45RJHFjiZblZ6Ia3FHkZcscP0A" />
-  <meta charset="utf-8">
-  <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="viewport" content="width=device-width, initial-scale=1">
-  <meta name="keywords" content="Javier Rodriguez Martinez, cv, resume, mathematics">
+  <head>
+    {% seo %}
+    <meta name="google-site-verification"
+      content="dieV_6BS7P0W-Q0gJ45RJHFjiZblZ6Ia3FHkZcscP0A" />
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="keywords"
+      content="Javier Rodriguez Martinez, cv, resume, mathematics">
 
-  <title>{{ site.title_es }}</title>
-  <meta name="description" content="{{ site.description_es }}">
+    <title>{{ site.title_es }}</title>
+    <meta name="description" content="{{ site.description_es }}">
 
-  <link rel="apple-touch-icon" sizes="180x180" href="{{ "/assets/img/Foto_perfil.png" | prepend: site.baseurl }}">
-  <link rel="icon" type="image/png" sizes="32x32" href="{{ "/assets/img/Foto_perfil.png"| prepend: site.baseurl }}">
-  <link rel="icon" type="image/png" sizes="16x16" href="{{ "/assets/img/Foto_perfil.png" | prepend: site.baseurl }}">
-  <link rel="manifest" href="{{ "/assets/favicon/site.webmanifest" | prepend: site.baseurl }}">
+    <link rel="apple-touch-icon" sizes="180x180" href="{{ "/assets/img/Foto_perfil.png"
+      | prepend: site.baseurl }}">
+    <link rel="icon" type="image/png" sizes="32x32" href="{{ "/assets/img/Foto_perfil.png"|
+      prepend: site.baseurl }}">
+    <link rel="icon" type="image/png" sizes="16x16" href="{{ "/assets/img/Foto_perfil.png"
+      | prepend: site.baseurl }}">
+    <link rel="manifest" href="{{ "/assets/favicon/site.webmanifest" | prepend:
+      site.baseurl }}">
 
-  <link rel="stylesheet" href="{{ "/assets/css/main.min.css" | prepend: site.baseurl }}">
-  <link rel="stylesheet" href="{{ "/assets/css/vendors.min.css" | prepend: site.baseurl }}">
+    <link rel="stylesheet" href="{{ "/assets/css/main.min.css" | prepend:
+      site.baseurl }}">
+    <link rel="stylesheet" href="{{ "/assets/css/vendors.min.css" | prepend:
+      site.baseurl }}">
 
-  <script src="{{ "/assets/js/vendors.min.js" | prepend: site.baseurl }}"></script>
-  <script src="{{ "/assets/js/app.min.js" | prepend: site.baseurl }}"></script>
-</head>
+    <script src="{{ "/assets/js/vendors.min.js" | prepend: site.baseurl }}"></script>
+    <script src="{{ "/assets/js/app.min.js" | prepend: site.baseurl }}"></script>
+  </head>
 
-<body>
-  <div id="preloader">
-    <div class="load">
-      <hr />
-      <hr />
-      <hr />
-      <hr />
+  <body>
+    <div id="preloader">
+      <div class="load">
+        <hr />
+        <hr />
+        <hr />
+        <hr />
+      </div>
     </div>
-  </div>
-  {% include landing-page_es.html %}
-  <div class="layout">
-    {%if site.show_aboutme_card %}
+    {% include landing-page_es.html %}
+    <div class="layout">
+      {%if site.show_aboutme_card %}
       <section class="card neumorphism-card-big">
         {% include section-aboutme-es.html %}
       </section>
-    {% endif %}
-    {%if site.show_skills_card %}
+      {% endif %}
+      {%if site.show_skills_card %}
       <section class="card neumorphism-card-big">
         {% include section-skills_es.html %}
       </section>
-    {% endif %}
-    {%if site.show_timeline_card %}
+      {% endif %}
+      {%if site.show_timeline_card %}
       <section class="card neumorphism-card-big">
         {% include section-timeline_es.html %}
       </section>
-    {% endif %}
-    {%if site.show_projects_card %}
+      {% endif %}
+      {%if site.show_projects_card %}
       <section class="card neumorphism-card-big">
         {% include section-projects_es.html %}
       </section>
-    {% endif %}
-    {%if site.show_contact_card %}
-    <section class="card neumorphism-card-big">
-      {% include section-contact_es.html %}
-    </section>
-    {% endif %}
-  </div>
-  {% include footer_es.html %}
-</body>
+      {% endif %}
+      {%if site.show_contact_card %}
+      <section class="card neumorphism-card-big">
+        {% include section-contact_es.html %}
+      </section>
+      {% endif %}
+    </div>
+    {% include footer_es.html %}
+  </body>
 </html>

@@ -23,19 +23,29 @@
   subtitle: Degree in Mathematics
   timeline-side: right
 
+- title: Universitat Politècnica de Catalunya (MESIO UPC-UB Summer School)
+  title-url: https://mesioupcub.masters.upc.edu/en/xvi-summer-school-2023/courses/applied-machine-learning-to-solve-real-life-problems
+  date: July 2023
+  subtitle: Summer Course (Applied Machine Learning to Solve Real-Life Problems). Conducted by a lead data scientist at N26. The coursed focused on financial problems, such as credit risk, fraud detection and default rate prediction. A kaggle competition centered on predicting default rates of businesses was held at the course, where I achieved the winning position.
+  timeline-side: right
+  tags:
+    - tag: Data Science
+    - tag: Machine Learning
+    - tag: Finance
+
 - title: London International Youth Science Forum (LIYSF)
   title-url: https://www.liysf.org.uk/
   date: 2022
-  subtitle: Participant
+  subtitle: Participant at the program. LYISF is a two-week science program held at Imperial College of London and the Royal Geographical Society with participants from over 70 countries. I attended lectures on a variety of science topics and visited research centres such as the Oxford Nuffield Department of Clinical Neurosciences.
   tags:
-    - tag: Summer Camp
+    - tag: Summer program
     - tag: STEM
   timeline-side: left
 
 - title: Institut de Ciències Fótoniques (ICFO)
   title-url: https://www.icfo.eu/
   date: Jul 2021
-  subtitle: Summer Course (An introduction to image processing).
+  subtitle: Summer Course (An introduction to image processing). A two week course on image compression algorithms in Matlab and information theory held at ICFO in the Theoretical Quantum Nano-Photonics Group. 
   tags:
     - tag: Mathematics
     - tag: Data Science
@@ -45,7 +55,7 @@
 - title: Youth and Science
   title-url: https://www.fundaciocatalunya-lapedrera.com/en/youth-and-science
   date: Jun 2019 - Sep 2022
-  subtitle: Selected to participate at the programme Youth and Science, managed by Fundació Catalunya La Pedrera. A three-year programme to encourage scientific vocations of fifty talented young people with a drive to research.
+  subtitle: Selected to participate at the programme Youth and Science, managed by Fundació Catalunya La Pedrera. A three-year programme to encourage scientific vocations of fifty talented young people with a drive to research. Funded to participate in LIYSF and the ICFO summer course (An introduction to image processing).
   #mirar descrpición joves (directa de su web)
   tags:
     - tag: Science

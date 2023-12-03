@@ -34,7 +34,9 @@ show_aboutme_card: true
 # about_me_title: The will be displayed as the title in the About Me section
 about_me_title_es: Sobre mí
 # about_me_description: This will be displayed under the title.
-about_me_description_es: Actualmente estoy estudiando un grado en Matemáticas. También me interesa especialmente la biología, la ciencia de datos y las matemáticas aplicadas a la economía. Ahora mismo, estoy buscando prácticas este verano para poder seguir aprendiendo sobre estos temas. Además, me gusta mucho llevar a cabo proyectos y aprender por mi cuenta.
+about_me_description_es: Soy un estudiante del grado de Matemáticas con un profundo interés por las finanzas, la biología y la ciencia de datos. En cuanto a las finanzas, mi formación académica, unida a la exposición que he tenido a los mercados financieros a través de influencias familiares, me ha llevado al aprendizaje autodirigido en este campo, además de la lectura de obras fundamentales como "Portfolio Selection" de Harry Markowitz y la gestión activa de una cartera de inversión personal. En cuanto a la biología, me gustaría aprender sobre el campo de la biología computacional, ya que creo que la combinación de matemáticas y biología es una poderosa herramienta para resolver problemas del mundo real. Actualmente estoy buscando unas prácticas de verano para ampliar mis conocimientos en estos campos. Además, disfruto trabajando en proyectos y aprendiendo por mi cuenta.
+
+
 #<a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>. You can also find me on <a class="highlight-link" href="https://jamstackthemes.dev/theme/jekyll-neumorphism/" target="_blank" rel="noreferrer">JAMstack Themes</a> and on <a class="highlight-link" href="https://jekyll-themes.com/neumorphism/" target="_blank" rel="noreferrer">Jekyll Themes</a>.
 
 # SKILLS SECTION
@@ -64,7 +66,7 @@ show_projects_card: true
 # show_projects:
 # > setting this to true, will display your listed projects in _data/projects.yml
 # > setting this to false, will omit your listed projects
-show_projects: false #Poner TR?
+show_projects: true #Poner TR?
 # projects_title: The will be displayed as the title of your projects
 projects_title_es: Proyectos
 # show_os_projects:

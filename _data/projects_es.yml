@@ -1,0 +1,57 @@
+# > name: Name of your project
+# > descr: Description of your project
+# > demo: Link to your project
+# > tags: List of technologies you used in your projects
+#
+# Example of a project
+# - name: project X
+#   descr: "Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam"
+#   demo: https://example.com/
+#   tags:
+#     - tag: MongoDB
+#     - tag: Express
+#     - tag: AngularJS
+#     - tag: Node
+
+- name: Ganador concurso vídeos educacionales 
+  descr: Ganador de la subcategoria Facultat de Matemàtiques i Estadística (FME-UPC) en un concurso de vídeos de educación matemática organizado por Numerical Factory en 2023.
+  demo1: https://www.youtube.com/watch?si=WepGEVSw0CDeVnTe&v=WFSyknSgeps&feature=youtu.be
+  demo1_name: Link del vídeo
+  demo2: https://numfactory.upc.edu/blog/2022/07/13/1er-concurs-de-videos-de-matematiques/
+  demo2_name: Link de la competición
+  tags:
+    - tag: Python3
+    - tag: Manim
+    - tag: Matemáticas educativas
+    - tag: Concurso
+
+
+# Classified for the Spanish Biology Olympiad (2021)
+# ó Classified for the Spanish European Youth Parliament (EYP) as Wildcard (2021)
+# ó Classified 2 times for the Spanish phase of the robotics tournament First Lego League acting as team leader.
+# (2017 and 2018)
+
+- name: Olimpiada Española de Biología
+  descr: Clasificado para la fase nacional de la Olimpiada Española de Biología en 2021.
+  demo1: https://olimpiadadebiologia.cat/index.php/obc-2o21/
+  demo1_name: Ganadores Olimpiada Catalana de Biología 2021
+  tags:
+    - tag: Biología
+    - tag: Concurso
+
+- name: European Youth Parliament (EYP)
+  descr: Clasificado para la fase nacional de la European Youth Parliament (EYP) como Wildcard (participante clasificado sin su equipo) en 2021.
+  demo1: https://www.eype.es/
+  demo1_name: Web del EYP
+  tags:
+    - tag: Debate
+    - tag: Concurso
+
+- name: First Lego League
+  descr: Clasificado para la fase nacional de la competición de robótica First Lego League (FLL) como líder de equipo en 2017 y 2018.
+  demo1: https://www.firstlegoleague.org/
+  demo1_name: Web de la FLL
+  tags:
+    - tag: Robótica
+    - tag: Concurso
+    - tag: Liderazgo
