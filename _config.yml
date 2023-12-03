@@ -127,3 +127,18 @@ exclude:
     "node_modules",
     "package.json",
   ]
+
+
+# Español
+title_es: CV de Javier Rodriguez Martinez
+description_es: Personal website powered by Jekyll
+typing_text_es: Este es mi currículum
+about_me_title_es: Sobre mí
+about_me_description_es: Soy un estudiante del grado de Matemáticas con un profundo interés por las finanzas, la biología y la ciencia de datos. En cuanto a las finanzas, mi formación académica, unida a la exposición que he tenido a los mercados financieros a través de influencias familiares, me ha llevado al aprendizaje autodirigido en este campo, además de la lectura de obras fundamentales como "Portfolio Selection" de Harry Markowitz y la gestión activa de una cartera de inversión personal. En cuanto a la biología, me gustaría aprender sobre el campo de la biología computacional, ya que creo que la combinación de matemáticas y biología es una poderosa herramienta para resolver problemas del mundo real. Actualmente estoy buscando unas prácticas de verano para ampliar mis conocimientos en estos campos. Además, disfruto trabajando en proyectos y aprendiendo por mi cuenta.
+skills_title_es: Skills
+timeline_title_es: Educación y Experiencia
+cv_download_link_es: "/Francisco-Javier-Rodriguez-Martinez-C"
+projects_title_es: Proyectos
+os_projects_title_es: Proyectos Open-Source
+contact_title_es: Contacto
+contact_description_es: Estoy disponible para cualquier pregunta por email. Se puede acceder al código original y la documentación de esta web en  <a class="highlight-link" href="https://github.com/longpdo/neumorphism" target="_blank" rel="noreferrer"> Github </a>.
