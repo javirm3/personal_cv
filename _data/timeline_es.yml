@@ -22,11 +22,23 @@
   date: Sep 2021 - Presente
   subtitle: Grado en Matemáticas
   timeline-side: right
+  
+
+# Cuando deje de funcionar la web -> https://web.archive.org/save/https://mesioupcub.masters.upc.edu/en/xvi-summer-school-2023/courses/applied-machine-learning-to-solve-real-life-problems
+- title: Universitat Politècnica de Catalunya (MESIO UPC-UB Summer School)
+  title-url: https://mesioupcub.masters.upc.edu/en/xvi-summer-school-2023/courses/applied-machine-learning-to-solve-real-life-problems
+  date: Julio 2023
+  subtitle: Curso de verano (Applied Machine Learning to Solve Real-Life Problems). Impartido por un jefe del equipo de ciencia de datos de N26. El curso se focalizaba en la resolución de problemas financieros, como la evaluación de riesgo crediticio, la detección de fraudes y las predicción de tasas de impago. Durante el curso se celebró una competición de Kaggle centrada en la predicción de tasas de impago de empresas, donde conseguí la posición ganadora.
+  timeline-side: right
+  tags:
+    - tag: Data Science
+    - tag: Machine Learning
+    - tag: Finanzas
 
 - title: London International Youth Science Forum (LIYSF)
   title-url: https://www.liysf.org.uk/
-  date: 2022
-  subtitle: Participante en el programa
+  date: Agosto 2022
+  subtitle: Participante en el programa. LYISF es un programa de ciencia con una duración de dos semanas que se lleva acabo en el Imperial College of London y  la Royal Geographical Society con participantes de más de 70 países. Asistí a conferencias sobre una variedad de temas relacionados con la ciencia y a visitas a centros de investigación como el Oxford Nuffield Department of Clinical Neurosciences.
   tags:
     - tag: Curso de Verano
     - tag: STEM
@@ -35,7 +47,7 @@
 - title: Institut de Ciències Fótoniques (ICFO)
   title-url: https://www.icfo.eu/
   date: Jul 2021
-  subtitle: Curso de verano (Introducción al procesamiento de imágenes).
+  subtitle: Curso de verano (Introducción al procesamiento de imágenes). Un curso de dos semanas sobre algoritmos de compresión de imágenes en Matlab y teoría de la información impartido en el grupo de Teoría Cuántica de Nano-Fotónica del ICFO.
   tags:
     - tag: Matemáticas
     - tag: Data Science
@@ -45,8 +57,7 @@
 - title: Joves i Ciència
   title-url: https://www.fundaciocatalunya-lapedrera.com/es/jovenes-y-ciencia
   date: Jun 2019 - Sep 2022
-  subtitle: Seleccionado para participar en el programa Joves i Ciència, dirigido por la Fundació Catalunya La Pedrera. Un programa de becas de tres años de duración destinado a impulsar las vocaciones científicas de 50 jóvenes con talento e inquietud por la investigación.
-  #mirar descrpición joves (directa de su web)
+  subtitle: Seleccionado para participar en el programa Joves i Ciència, dirigido por la Fundació Catalunya La Pedrera. Un programa de becas de tres años de duración destinado a impulsar las vocaciones científicas de 50 jóvenes con talento e inquietud por la investigación. Becado para participar en LIYSF y en el curso de verano del ICFO.
   tags:
     - tag: Ciencia
     - tag: Investigación
